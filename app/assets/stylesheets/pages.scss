@@ -1,0 +1,13 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.banner {
+    background-image: url('/assets/background.jpg');  
+    background-size:cover;
+    height: 550px;
+    width: 100%;
+    padding:0px;
+}
+.ov-h {
+    overflow: hidden;
+}
