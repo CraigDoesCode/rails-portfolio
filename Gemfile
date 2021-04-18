@@ -10,7 +10,7 @@ gem 'rails', '~> 6.1.2', '>= 6.1.2.1'
 gem 'sqlite3', group: :development
 gem 'pg', group: :production
 # add rails_12 factor for heroku
-#sgem 'rails_12factor', group: :production
+gem 'rails_12factor', group: :production
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
